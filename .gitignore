@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+# texts rebuilt from the API and local vectors stay out of the repo
+works.jsonl
+*_works.jsonl
+*_vectors.npz

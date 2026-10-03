@@ -1,0 +1,104 @@
+[
+ {
+  "n": 1,
+  "id": "https://metadata.un.org/sdg/1",
+  "display_name": "No poverty",
+  "threshold": 0.4
+ },
+ {
+  "n": 2,
+  "id": "https://metadata.un.org/sdg/2",
+  "display_name": "Zero hunger",
+  "threshold": 0.4
+ },
+ {
+  "n": 3,
+  "id": "https://metadata.un.org/sdg/3",
+  "display_name": "Good health and well-being",
+  "threshold": 0.4
+ },
+ {
+  "n": 4,
+  "id": "https://metadata.un.org/sdg/4",
+  "display_name": "Quality education",
+  "threshold": 0.4
+ },
+ {
+  "n": 5,
+  "id": "https://metadata.un.org/sdg/5",
+  "display_name": "Gender equality",
+  "threshold": 0.4
+ },
+ {
+  "n": 6,
+  "id": "https://metadata.un.org/sdg/6",
+  "display_name": "Clean water and sanitation",
+  "threshold": 0.4
+ },
+ {
+  "n": 7,
+  "id": "https://metadata.un.org/sdg/7",
+  "display_name": "Affordable and clean energy",
+  "threshold": 0.4
+ },
+ {
+  "n": 8,
+  "id": "https://metadata.un.org/sdg/8",
+  "display_name": "Decent work and economic growth",
+  "threshold": 0.4
+ },
+ {
+  "n": 9,
+  "id": "https://metadata.un.org/sdg/9",
+  "display_name": "Industry, innovation and infrastructure",
+  "threshold": 0.4
+ },
+ {
+  "n": 10,
+  "id": "https://metadata.un.org/sdg/10",
+  "display_name": "Reduced inequalities",
+  "threshold": 0.4
+ },
+ {
+  "n": 11,
+  "id": "https://metadata.un.org/sdg/11",
+  "display_name": "Sustainable cities and communities",
+  "threshold": 0.4
+ },
+ {
+  "n": 12,
+  "id": "https://metadata.un.org/sdg/12",
+  "display_name": "Responsible consumption and production",
+  "threshold": 0.4
+ },
+ {
+  "n": 13,
+  "id": "https://metadata.un.org/sdg/13",
+  "display_name": "Climate action",
+  "threshold": 0.4
+ },
+ {
+  "n": 14,
+  "id": "https://metadata.un.org/sdg/14",
+  "display_name": "Life below water",
+  "threshold": 0.4
+ },
+ {
+  "n": 15,
+  "id": "https://metadata.un.org/sdg/15",
+  "display_name": "Life on land",
+  "threshold": 0.4
+ },
+ {
+  "n": 16,
+  "id": "https://metadata.un.org/sdg/16",
+  "display_name": "Peace, justice, and strong institutions",
+  "threshold": 0.4
+ },
+ {
+  "n": 17,
+  "id": "https://metadata.un.org/sdg/17",
+  "display_name": "Partnerships for the goals",
+  "threshold": 0.4
+ }
+]

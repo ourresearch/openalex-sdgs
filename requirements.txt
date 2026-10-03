@@ -1,0 +1,12 @@
+# Python 3.10 or later. benchmarks/score_public.py, classifier/fetch_works.py and harness/gepa/score_judged.py need only
+# the standard library. Scoring the committee eval and the heads (benchmarks/score_committee.py, classifier/head.py,
+# docs/charts/make_charts.py reads only JSON) needs:
+numpy>=1.24
+# Retraining the head (training/train.py) also needs:
+#   scikit-learn>=1.5          (the shipped heads were fit with 1.9.1)
+# Asking Jev (classifier/jev.py) needs:
+#   requests>=2.28
+# Embedding works (classifier/embed.py) needs:
+#   torch  "sentence-transformers>=3"
+# Re-judging (harness/committee.py, harness/judge_september.py) needs:
+#   anthropic  httpx

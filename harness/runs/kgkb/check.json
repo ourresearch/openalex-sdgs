@@ -1,0 +1,378 @@
+{
+ "cases": [
+  {
+   "work_id": "W2060016360",
+   "expect": {
+    "goal": 2
+   },
+   "opus": "SDG 2=yes",
+   "sol": "SDG 2=yes",
+   "committee": "SDG 2=yes"
+  },
+  {
+   "work_id": "W7212234197",
+   "expect": {
+    "goal": 3
+   },
+   "opus": "SDG 3=yes",
+   "sol": "SDG 3=yes",
+   "committee": "SDG 3=yes"
+  },
+  {
+   "work_id": "W2486219902",
+   "expect": {
+    "goal": 4
+   },
+   "opus": "SDG 4=yes",
+   "sol": "SDG 4=yes",
+   "committee": "SDG 4=yes"
+  },
+  {
+   "work_id": "W2041668569",
+   "expect": {
+    "goal": 5
+   },
+   "opus": "SDG 5=yes",
+   "sol": "SDG 5=yes",
+   "committee": "SDG 5=yes"
+  },
+  {
+   "work_id": "W3040555890",
+   "expect": {
+    "goal": 6
+   },
+   "opus": "SDG 6=yes",
+   "sol": "SDG 6=yes",
+   "committee": "SDG 6=yes"
+  },
+  {
+   "work_id": "W2953064303",
+   "expect": {
+    "goal": 7
+   },
+   "opus": "SDG 7=yes",
+   "sol": "SDG 7=yes",
+   "committee": "SDG 7=yes"
+  },
+  {
+   "work_id": "W4388827277",
+   "expect": {
+    "goal": 13
+   },
+   "opus": "SDG 13=yes",
+   "sol": "SDG 13=yes",
+   "committee": "SDG 13=yes"
+  },
+  {
+   "work_id": "W2996314032",
+   "expect": {
+    "goal": 14
+   },
+   "opus": "SDG 14=yes",
+   "sol": "SDG 14=yes",
+   "committee": "SDG 14=yes"
+  },
+  {
+   "work_id": "W7120000730",
+   "expect": {
+    "goal": 15
+   },
+   "opus": "SDG 15=yes",
+   "sol": "SDG 15=yes",
+   "committee": "SDG 15=yes"
+  },
+  {
+   "work_id": "W4409708074",
+   "expect": {
+    "goal": 16
+   },
+   "opus": "SDG 16=yes",
+   "sol": "SDG 16=yes",
+   "committee": "SDG 16=yes"
+  },
+  {
+   "work_id": "W1525703219",
+   "expect": {
+    "none": true,
+    "planted_goal": 4
+   },
+   "opus": "all no",
+   "sol": "all no",
+   "committee": "all no"
+  },
+  {
+   "work_id": "W4389283532",
+   "expect": {
+    "none": true,
+    "planted_goal": 9
+   },
+   "opus": "all no",
+   "sol": "all no",
+   "committee": "all no"
+  },
+  {
+   "work_id": "W1806806453",
+   "expect": {
+    "none": true,
+    "planted_goal": 9
+   },
+   "opus": "all no",
+   "sol": "all no",
+   "committee": "all no"
+  },
+  {
+   "work_id": "W2335565397",
+   "expect": {
+    "none": true,
+    "planted_goal": 4
+   },
+   "opus": "all no",
+   "sol": "all no",
+   "committee": "all no"
+  },
+  {
+   "work_id": "W2405475863",
+   "expect": {
+    "none": true,
+    "planted_goal": 4
+   },
+   "opus": "all no",
+   "sol": "all no",
+   "committee": "all no"
+  },
+  {
+   "work_id": "W1989625169",
+   "expect": {
+    "none": true,
+    "planted_goal": 9
+   },
+   "opus": "all no",
+   "sol": "all no",
+   "committee": "all no"
+  },
+  {
+   "work_id": "W1847735660",
+   "expect": {
+    "none": true,
+    "planted_goal": 9
+   },
+   "opus": "all no",
+   "sol": "all no",
+   "committee": "all no"
+  },
+  {
+   "work_id": "W2133079848",
+   "expect": {
+    "none": true,
+    "planted_goal": 15
+   },
+   "opus": "all no",
+   "sol": "all no",
+   "committee": "all no"
+  },
+  {
+   "work_id": "W1994248618",
+   "expect": {
+    "none": true,
+    "planted_goal": 3
+   },
+   "opus": "all no",
+   "sol": "all no",
+   "committee": "all no"
+  },
+  {
+   "work_id": "W1535865505",
+   "expect": {
+    "none": true,
+    "planted_goal": 5
+   },
+   "opus": "all no",
+   "sol": "all no",
+   "committee": "all no"
+  }
+ ],
+ "fail": [],
+ "fable_planted": [
+  {
+   "work_id": "W2060016360",
+   "goal": 2,
+   "truth": "yes",
+   "judge_a": "real",
+   "status": "ok",
+   "verdict": "yes",
+   "correct": true
+  },
+  {
+   "work_id": "W7212234197",
+   "goal": 3,
+   "truth": "yes",
+   "judge_a": "real",
+   "status": "ok",
+   "verdict": "yes",
+   "correct": true
+  },
+  {
+   "work_id": "W2486219902",
+   "goal": 4,
+   "truth": "yes",
+   "judge_a": "planted",
+   "status": "ok",
+   "verdict": "yes",
+   "correct": true
+  },
+  {
+   "work_id": "W2041668569",
+   "goal": 5,
+   "truth": "yes",
+   "judge_a": "real",
+   "status": "ok",
+   "verdict": "yes",
+   "correct": true
+  },
+  {
+   "work_id": "W3040555890",
+   "goal": 6,
+   "truth": "yes",
+   "judge_a": "real",
+   "status": "ok",
+   "verdict": "yes",
+   "correct": true
+  },
+  {
+   "work_id": "W2953064303",
+   "goal": 7,
+   "truth": "yes",
+   "judge_a": "real",
+   "status": "ok",
+   "verdict": "yes",
+   "correct": true
+  },
+  {
+   "work_id": "W4388827277",
+   "goal": 13,
+   "truth": "yes",
+   "judge_a": "planted",
+   "status": "ok",
+   "verdict": "yes",
+   "correct": true
+  },
+  {
+   "work_id": "W2996314032",
+   "goal": 14,
+   "truth": "yes",
+   "judge_a": "planted",
+   "status": "ok",
+   "verdict": "yes",
+   "correct": true
+  },
+  {
+   "work_id": "W7120000730",
+   "goal": 15,
+   "truth": "yes",
+   "judge_a": "planted",
+   "status": "ok",
+   "verdict": "yes",
+   "correct": true
+  },
+  {
+   "work_id": "W4409708074",
+   "goal": 16,
+   "truth": "yes",
+   "judge_a": "real",
+   "status": "ok",
+   "verdict": "yes",
+   "correct": true
+  },
+  {
+   "work_id": "W1525703219",
+   "goal": 4,
+   "truth": "no",
+   "judge_a": "planted",
+   "status": "ok",
+   "verdict": "no",
+   "correct": true
+  },
+  {
+   "work_id": "W4389283532",
+   "goal": 9,
+   "truth": "no",
+   "judge_a": "real",
+   "status": "ok",
+   "verdict": "no",
+   "correct": true
+  },
+  {
+   "work_id": "W1806806453",
+   "goal": 9,
+   "truth": "no",
+   "judge_a": "real",
+   "status": "ok",
+   "verdict": "no",
+   "correct": true
+  },
+  {
+   "work_id": "W2335565397",
+   "goal": 4,
+   "truth": "no",
+   "judge_a": "real",
+   "status": "ok",
+   "verdict": "no",
+   "correct": true
+  },
+  {
+   "work_id": "W2405475863",
+   "goal": 4,
+   "truth": "no",
+   "judge_a": "planted",
+   "status": "ok",
+   "verdict": "no",
+   "correct": true
+  },
+  {
+   "work_id": "W1989625169",
+   "goal": 9,
+   "truth": "no",
+   "judge_a": "real",
+   "status": "ok",
+   "verdict": "no",
+   "correct": true
+  },
+  {
+   "work_id": "W1847735660",
+   "goal": 9,
+   "truth": "no",
+   "judge_a": "planted",
+   "status": "ok",
+   "verdict": "no",
+   "correct": true
+  },
+  {
+   "work_id": "W2133079848",
+   "goal": 15,
+   "truth": "no",
+   "judge_a": "real",
+   "status": "ok",
+   "verdict": "no",
+   "correct": true
+  },
+  {
+   "work_id": "W1994248618",
+   "goal": 3,
+   "truth": "no",
+   "judge_a": "real",
+   "status": "ok",
+   "verdict": "no",
+   "correct": true
+  },
+  {
+   "work_id": "W1535865505",
+   "goal": 5,
+   "truth": "no",
+   "judge_a": "real",
+   "status": "ok",
+   "verdict": "no",
+   "correct": true
+  }
+ ],
+ "pass": true
+}

@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 850" width="760" height="850" role="img" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif' style="font-variant-numeric: tabular-nums">
+<title>Recall by goal on 2,000 random OpenAlex works, judged by a committee of AI models: the old classifier and the new one</title>
+<rect x="0" y="8" width="12" height="12" rx="2" fill="#199e70"/>
+<text x="18.0" y="14.0" fill="#707a84" font-size="14" font-weight="400" text-anchor="start" dominant-baseline="middle">Old: Aurora SDG-BERT</text>
+<rect x="196.0" y="8" width="12" height="12" rx="2" fill="#2a78d6"/>
+<text x="214.0" y="14.0" fill="#707a84" font-size="14" font-weight="400" text-anchor="start" dominant-baseline="middle">New: OpenAlex head v2</text>
+<line x1="322.0" y1="50.0" x2="322.0" y2="846.0" stroke="#8b949e" stroke-width="1" stroke-opacity="0.8"/>
+<text x="322.0" y="40.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="middle" dominant-baseline="middle">0%</text>
+<line x1="420.0" y1="50.0" x2="420.0" y2="846.0" stroke="#8b949e" stroke-width="1" stroke-opacity="0.35"/>
+<text x="420.0" y="40.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="middle" dominant-baseline="middle">25%</text>
+<line x1="518.0" y1="50.0" x2="518.0" y2="846.0" stroke="#8b949e" stroke-width="1" stroke-opacity="0.35"/>
+<text x="518.0" y="40.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="middle" dominant-baseline="middle">50%</text>
+<line x1="616.0" y1="50.0" x2="616.0" y2="846.0" stroke="#8b949e" stroke-width="1" stroke-opacity="0.35"/>
+<text x="616.0" y="40.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="middle" dominant-baseline="middle">75%</text>
+<line x1="714.0" y1="50.0" x2="714.0" y2="846.0" stroke="#8b949e" stroke-width="1" stroke-opacity="0.35"/>
+<text x="714.0" y="40.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="middle" dominant-baseline="middle">100%</text>
+<text x="0.0" y="83.5" fill="#707a84" font-size="14" font-weight="700" text-anchor="start" dominant-baseline="middle">All 17 goals</text>
+<path d="M322.0,70.0 H437.6 Q441.6,70.0 441.6,74.0 V78.0 Q441.6,82.0 437.6,82.0 H322.0 Z" fill="#199e70"/>
+<text x="447.6" y="76.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="start" dominant-baseline="middle">31%</text>
+<path d="M322.0,85.0 H601.6 Q605.6,85.0 605.6,89.0 V93.0 Q605.6,97.0 601.6,97.0 H322.0 Z" fill="#2a78d6"/>
+<text x="611.6" y="91.0" fill="#707a84" font-size="12" font-weight="600" text-anchor="start" dominant-baseline="middle">72%</text>
+<line x1="0.0" y1="110.0" x2="756.0" y2="110.0" stroke="#8b949e" stroke-width="1" stroke-opacity="0.5"/>
+<text x="0.0" y="136.5" fill="#707a84" font-size="14" font-weight="500" text-anchor="start" dominant-baseline="middle">1 No poverty</text>
+<path d="M322.0,123.0 H448.7 Q452.7,123.0 452.7,127.0 V131.0 Q452.7,135.0 448.7,135.0 H322.0 Z" fill="#199e70"/>
+<text x="458.7" y="129.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="start" dominant-baseline="middle">33%</text>
+<path d="M322.0,138.0 H579.3 Q583.3,138.0 583.3,142.0 V146.0 Q583.3,150.0 579.3,150.0 H322.0 Z" fill="#2a78d6"/>
+<text x="589.3" y="144.0" fill="#707a84" font-size="12" font-weight="600" text-anchor="start" dominant-baseline="middle">67%</text>
+<text x="0.0" y="179.5" fill="#707a84" font-size="14" font-weight="500" text-anchor="start" dominant-baseline="middle">2 Zero hunger</text>
+<path d="M322.0,166.0 H441.4 Q445.4,166.0 445.4,170.0 V174.0 Q445.4,178.0 441.4,178.0 H322.0 Z" fill="#199e70"/>
+<text x="451.4" y="172.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="start" dominant-baseline="middle">31%</text>
+<path d="M322.0,181.0 H644.7 Q648.7,181.0 648.7,185.0 V189.0 Q648.7,193.0 644.7,193.0 H322.0 Z" fill="#2a78d6"/>
+<text x="654.7" y="187.0" fill="#707a84" font-size="12" font-weight="600" text-anchor="start" dominant-baseline="middle">83%</text>
+<text x="0.0" y="222.5" fill="#707a84" font-size="14" font-weight="500" text-anchor="start" dominant-baseline="middle">3 Good health and well-being</text>
+<path d="M322.0,209.0 H434.3 Q438.3,209.0 438.3,213.0 V217.0 Q438.3,221.0 434.3,221.0 H322.0 Z" fill="#199e70"/>
+<text x="444.3" y="215.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="start" dominant-baseline="middle">30%</text>
+<path d="M322.0,224.0 H662.9 Q666.9,224.0 666.9,228.0 V232.0 Q666.9,236.0 662.9,236.0 H322.0 Z" fill="#2a78d6"/>
+<text x="672.9" y="230.0" fill="#707a84" font-size="12" font-weight="600" text-anchor="start" dominant-baseline="middle">88%</text>
+<text x="0.0" y="265.5" fill="#707a84" font-size="14" font-weight="500" text-anchor="start" dominant-baseline="middle">4 Quality education</text>
+<path d="M322.0,252.0 H479.4 Q483.4,252.0 483.4,256.0 V260.0 Q483.4,264.0 479.4,264.0 H322.0 Z" fill="#199e70"/>
+<text x="489.4" y="258.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="start" dominant-baseline="middle">41%</text>
+<path d="M322.0,267.0 H629.3 Q633.3,267.0 633.3,271.0 V275.0 Q633.3,279.0 629.3,279.0 H322.0 Z" fill="#2a78d6"/>
+<text x="639.3" y="273.0" fill="#707a84" font-size="12" font-weight="600" text-anchor="start" dominant-baseline="middle">79%</text>
+<text x="0.0" y="308.5" fill="#707a84" font-size="14" font-weight="500" text-anchor="start" dominant-baseline="middle">5 Gender equality</text>
+<path d="M322.0,295.0 H570.0 Q574.0,295.0 574.0,299.0 V303.0 Q574.0,307.0 570.0,307.0 H322.0 Z" fill="#199e70"/>
+<text x="580.0" y="301.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="start" dominant-baseline="middle">64%</text>
+<path d="M322.0,310.0 H486.0 Q490.0,310.0 490.0,314.0 V318.0 Q490.0,322.0 486.0,322.0 H322.0 Z" fill="#2a78d6"/>
+<text x="496.0" y="316.0" fill="#707a84" font-size="12" font-weight="600" text-anchor="start" dominant-baseline="middle">43%</text>
+<text x="0.0" y="351.5" fill="#707a84" font-size="14" font-weight="500" text-anchor="start" dominant-baseline="middle">6 Clean water and sanitation</text>
+<path d="M322.0,338.0 H478.4 Q482.4,338.0 482.4,342.0 V346.0 Q482.4,350.0 478.4,350.0 H322.0 Z" fill="#199e70"/>
+<text x="488.4" y="344.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="start" dominant-baseline="middle">41%</text>
+<path d="M322.0,353.0 H603.1 Q607.1,353.0 607.1,357.0 V361.0 Q607.1,365.0 603.1,365.0 H322.0 Z" fill="#2a78d6"/>
+<text x="613.1" y="359.0" fill="#707a84" font-size="12" font-weight="600" text-anchor="start" dominant-baseline="middle">73%</text>
+<text x="0.0" y="394.5" fill="#707a84" font-size="14" font-weight="500" text-anchor="start" dominant-baseline="middle">7 Affordable and clean energy</text>
+<path d="M322.0,381.0 H441.8 Q445.8,381.0 445.8,385.0 V389.0 Q445.8,393.0 441.8,393.0 H322.0 Z" fill="#199e70"/>
+<text x="451.8" y="387.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="start" dominant-baseline="middle">32%</text>
+<path d="M322.0,396.0 H606.8 Q610.8,396.0 610.8,400.0 V404.0 Q610.8,408.0 606.8,408.0 H322.0 Z" fill="#2a78d6"/>
+<text x="616.8" y="402.0" fill="#707a84" font-size="12" font-weight="600" text-anchor="start" dominant-baseline="middle">74%</text>
+<text x="0.0" y="437.5" fill="#707a84" font-size="14" font-weight="500" text-anchor="start" dominant-baseline="middle">8 Decent work and economic growth</text>
+<path d="M322.0,424.0 H441.2 Q445.2,424.0 445.2,428.0 V432.0 Q445.2,436.0 441.2,436.0 H322.0 Z" fill="#199e70"/>
+<text x="451.2" y="430.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="start" dominant-baseline="middle">31%</text>
+<path d="M322.0,439.0 H564.4 Q568.4,439.0 568.4,443.0 V447.0 Q568.4,451.0 564.4,451.0 H322.0 Z" fill="#2a78d6"/>
+<text x="574.4" y="445.0" fill="#707a84" font-size="12" font-weight="600" text-anchor="start" dominant-baseline="middle">63%</text>
+<text x="0.0" y="480.5" fill="#707a84" font-size="14" font-weight="500" text-anchor="start" dominant-baseline="middle">9 Industry, innovation and infrastructure</text>
+<path d="M322.0,467.0 H362.5 Q366.5,467.0 366.5,471.0 V475.0 Q366.5,479.0 362.5,479.0 H322.0 Z" fill="#199e70"/>
+<text x="372.5" y="473.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="start" dominant-baseline="middle">11%</text>
+<path d="M322.0,482.0 H514.0 Q518.0,482.0 518.0,486.0 V490.0 Q518.0,494.0 514.0,494.0 H322.0 Z" fill="#2a78d6"/>
+<text x="524.0" y="488.0" fill="#707a84" font-size="12" font-weight="600" text-anchor="start" dominant-baseline="middle">50%</text>
+<text x="0.0" y="523.5" fill="#707a84" font-size="14" font-weight="500" text-anchor="start" dominant-baseline="middle">10 Reduced inequalities</text>
+<path d="M322.0,510.0 H383.3 Q387.3,510.0 387.3,514.0 V518.0 Q387.3,522.0 383.3,522.0 H322.0 Z" fill="#199e70"/>
+<text x="393.3" y="516.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="start" dominant-baseline="middle">17%</text>
+<path d="M322.0,525.0 H481.3 Q485.3,525.0 485.3,529.0 V533.0 Q485.3,537.0 481.3,537.0 H322.0 Z" fill="#2a78d6"/>
+<text x="491.3" y="531.0" fill="#707a84" font-size="12" font-weight="600" text-anchor="start" dominant-baseline="middle">42%</text>
+<text x="0.0" y="566.5" fill="#707a84" font-size="14" font-weight="500" text-anchor="start" dominant-baseline="middle">11 Sustainable cities and communities</text>
+<path d="M322.0,553.0 H458.0 Q462.0,553.0 462.0,557.0 V561.0 Q462.0,565.0 458.0,565.0 H322.0 Z" fill="#199e70"/>
+<text x="468.0" y="559.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="start" dominant-baseline="middle">36%</text>
+<path d="M322.0,568.0 H528.0 Q532.0,568.0 532.0,572.0 V576.0 Q532.0,580.0 528.0,580.0 H322.0 Z" fill="#2a78d6"/>
+<text x="538.0" y="574.0" fill="#707a84" font-size="12" font-weight="600" text-anchor="start" dominant-baseline="middle">54%</text>
+<text x="0.0" y="609.5" fill="#707a84" font-size="14" font-weight="500" text-anchor="start" dominant-baseline="middle">12 Responsible consumption and production</text>
+<path d="M322.0,596.0 H351.6 Q355.6,596.0 355.6,600.0 V604.0 Q355.6,608.0 351.6,608.0 H322.0 Z" fill="#199e70"/>
+<text x="361.6" y="602.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="start" dominant-baseline="middle">9%</text>
+<path d="M322.0,611.0 H463.6 Q467.6,611.0 467.6,615.0 V619.0 Q467.6,623.0 463.6,623.0 H322.0 Z" fill="#2a78d6"/>
+<text x="473.6" y="617.0" fill="#707a84" font-size="12" font-weight="600" text-anchor="start" dominant-baseline="middle">37%</text>
+<text x="0.0" y="652.5" fill="#707a84" font-size="14" font-weight="500" text-anchor="start" dominant-baseline="middle">13 Climate action</text>
+<path d="M322.0,639.0 H438.6 Q442.6,639.0 442.6,643.0 V647.0 Q442.6,651.0 438.6,651.0 H322.0 Z" fill="#199e70"/>
+<text x="448.6" y="645.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="start" dominant-baseline="middle">31%</text>
+<path d="M322.0,654.0 H589.4 Q593.4,654.0 593.4,658.0 V662.0 Q593.4,666.0 589.4,666.0 H322.0 Z" fill="#2a78d6"/>
+<text x="599.4" y="660.0" fill="#707a84" font-size="12" font-weight="600" text-anchor="start" dominant-baseline="middle">69%</text>
+<text x="0.0" y="695.5" fill="#707a84" font-size="14" font-weight="500" text-anchor="start" dominant-baseline="middle">14 Life below water</text>
+<path d="M322.0,682.0 H592.4 Q596.4,682.0 596.4,686.0 V690.0 Q596.4,694.0 592.4,694.0 H322.0 Z" fill="#199e70"/>
+<text x="602.4" y="688.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="start" dominant-baseline="middle">70%</text>
+<path d="M322.0,697.0 H474.8 Q478.8,697.0 478.8,701.0 V705.0 Q478.8,709.0 474.8,709.0 H322.0 Z" fill="#2a78d6"/>
+<text x="484.8" y="703.0" fill="#707a84" font-size="12" font-weight="600" text-anchor="start" dominant-baseline="middle">40%</text>
+<text x="0.0" y="738.5" fill="#707a84" font-size="14" font-weight="500" text-anchor="start" dominant-baseline="middle">15 Life on land</text>
+<path d="M322.0,725.0 H458.0 Q462.0,725.0 462.0,729.0 V733.0 Q462.0,737.0 458.0,737.0 H322.0 Z" fill="#199e70"/>
+<text x="468.0" y="731.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="start" dominant-baseline="middle">36%</text>
+<path d="M322.0,740.0 H528.0 Q532.0,740.0 532.0,744.0 V748.0 Q532.0,752.0 528.0,752.0 H322.0 Z" fill="#2a78d6"/>
+<text x="538.0" y="746.0" fill="#707a84" font-size="12" font-weight="600" text-anchor="start" dominant-baseline="middle">54%</text>
+<text x="0.0" y="781.5" fill="#707a84" font-size="14" font-weight="500" text-anchor="start" dominant-baseline="middle">16 Peace, justice, and strong institutions</text>
+<path d="M322.0,768.0 H436.5 Q440.5,768.0 440.5,772.0 V776.0 Q440.5,780.0 436.5,780.0 H322.0 Z" fill="#199e70"/>
+<text x="446.5" y="774.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="start" dominant-baseline="middle">30%</text>
+<path d="M322.0,783.0 H609.7 Q613.7,783.0 613.7,787.0 V791.0 Q613.7,795.0 609.7,795.0 H322.0 Z" fill="#2a78d6"/>
+<text x="619.7" y="789.0" fill="#707a84" font-size="12" font-weight="600" text-anchor="start" dominant-baseline="middle">74%</text>
+<text x="0.0" y="824.5" fill="#707a84" font-size="14" font-weight="500" text-anchor="start" dominant-baseline="middle">17 Partnerships for the goals</text>
+<path d="M322.0,811.0 H416.0 Q420.0,811.0 420.0,815.0 V819.0 Q420.0,823.0 416.0,823.0 H322.0 Z" fill="#199e70"/>
+<text x="426.0" y="817.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="start" dominant-baseline="middle">25%</text>
+<path d="M322.0,826.0 H367.0 Q371.0,826.0 371.0,830.0 V834.0 Q371.0,838.0 367.0,838.0 H322.0 Z" fill="#2a78d6"/>
+<text x="377.0" y="832.0" fill="#707a84" font-size="12" font-weight="600" text-anchor="start" dominant-baseline="middle">12%</text>
+</svg>

@@ -1,0 +1,38 @@
+{
+ "works": 2598,
+ "judged_by_both": 2582,
+ "pairs": 43894,
+ "pair_agreement": 0.9862,
+ "kappa": 0.764,
+ "opus_yes_rate": 0.0241,
+ "sol_yes_rate": 0.0363,
+ "works_with_dispute": 504,
+ "disputed_pairs": 607,
+ "fable_sided": {
+  "opus": 474,
+  "fable_no": 477,
+  "sol": 132,
+  "fable_yes": 129
+ },
+ "unresolved_pairs": 1,
+ "status": {
+  "opus": {
+   "ok": 2582,
+   "refused": 16
+  },
+  "sol": {
+   "ok": 2598
+  },
+  "fable": {
+   "ok": 503,
+   "refused": 1
+  }
+ },
+ "opus_refusal_attempts": 36,
+ "served_models": {
+  "opus:claude-opus-5-5": 2618,
+  "sol:openai/gpt-6.1-sol": 2598,
+  "fable:claude-fable-5-1": 504
+ },
+ "rubric": "59d19e472eb8f7330846777cf1a1a635fbc1bd583562314f69ded3dbf77dae46"
+}

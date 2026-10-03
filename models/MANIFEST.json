@@ -1,0 +1,19 @@
+{
+ "note": "sha256 of each model file; the same bytes OpenAlex's pipeline loads (notebooks/sdg/ in its data pipeline, October 2026).",
+ "models": {
+  "sdg_jev_head_v2.json": {
+   "sha256": "0b1357dcb19215205faf7381c224159cdac6a733fd1d08725f2935d6b938f52a",
+   "bytes": 209629,
+   "model_version": "sdg-jev-head-v2",
+   "trained_at": "2026-10-01T15:36:29",
+   "what": "Served since October 2026. v1 with goal 15 retrained after the SDG 15 instruction was reworded (harness/PREREGISTRATION.md)."
+  },
+  "sdg_jev_head_v1.json": {
+   "sha256": "43753502ee916118a4ce39167c90a600b22765b961a3e93fdc7f19d0de7b3c21",
+   "bytes": 198829,
+   "model_version": "sdg-jev-head-v1",
+   "trained_at": "2026-09-22T22:30:07.623122Z",
+   "what": "The head the committee eval's go rule was pre-registered on. Goals 1-14 and 16-17 are identical in v2."
+  }
+ }
+}
