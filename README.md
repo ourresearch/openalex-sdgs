@@ -3,7 +3,8 @@
 How [OpenAlex](https://openalex.org) decides which of the UN's 17
 [Sustainable Development Goals](https://sdgs.un.org/goals) a work addresses. Since 4 October 2026 every work's [`sustainable_development_goals`](https://help.openalex.org/data/sdgs/) field comes
 from a classifier OpenAlex trained and tested itself. It replaced the Aurora SDG-BERT model from the Aurora
-Universities Network, which OpenAlex had served for years. This is **version 1.0.0** (see the [changelog](CHANGELOG.md)).
+Universities Network, which OpenAlex had served for years. This is **version 1.0.0** (see the [changelog](CHANGELOG.md)). Announcement:
+[OpenAlex's SDG tags are now right 7 times in 10, up from 3](https://blog.openalex.org/openalexs-sdg-tags-are-now-right-7-times-in-10-up-from-3/).
 
 > **Everything is here:** the model weights, the training labels, every test set, every judge verdict and the code,
 > so you can check our numbers or build something better.
