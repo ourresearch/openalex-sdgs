@@ -30,7 +30,7 @@ python training/train.py --vectors train_vectors.npz --version v2 --out my_head.
 ```
 
 Texts change upstream and the local embedding may differ slightly from OpenAlex's hosted one, so a retrained head will
-be close to the shipped one, not identical. TODO: run this end to end once and record how close.
+be close to the shipped one, not identical. We have not yet run this end to end.
 
 **Relabel.** `python -m classifier.jev --input train_works.jsonl --out sdg15.jsonl --goals 15` asks Jev the SDG 15
 question alone, in the training request shape, with the current wording.

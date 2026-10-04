@@ -57,7 +57,7 @@ python -m classifier.head --vectors vectors.npz --out scores.jsonl
 ```
 
 OpenAlex embeds with a hosted copy of Qwen3-Embedding-0.6B; `embed.py` runs the open weights on the same text. We have
-not yet measured how closely the two agree (TODO), so for an exact check use the shipped vectors.
+not yet measured how closely the two agree, so for an exact check use the shipped vectors.
 
 ## Ask Jev
 

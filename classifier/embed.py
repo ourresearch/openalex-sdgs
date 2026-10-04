@@ -10,8 +10,8 @@ OpenAlex embeds every work with a title, in production, through Databricks' host
 work_text() below, cut at 2,000 characters, embedded bare (the model's instruction prefix is for queries only). This
 script runs the open weights locally with the same text.
 
-We have not measured how closely local vectors match the hosted ones (TODO: compare on the 2,598 committee works,
-whose served vectors ship in benchmarks/data/committee/vectors.npz). For an exact replication of the benchmarks, score
+We have not yet measured how closely local vectors match the hosted ones (the 2,598 committee works' served vectors
+ship in benchmarks/data/committee/vectors.npz for that comparison). For an exact replication of the benchmarks, score
 the shipped vectors; use this script for new works.
 """
 import argparse

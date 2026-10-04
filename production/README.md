@@ -10,6 +10,6 @@ so you can see exactly what runs.
   the list into each work's `sustainable_development_goals`. A work with no vector, or no goal at 0.4 or above, gets
   an empty list.
 - `freeze_aurora_sdgs.py` made a one-time copy of Aurora's last tags (192,888,578 works). It fills the deprecated
-  `sustainable_development_goals_aurora` field, which will be removed in November 2026 (TODO: exact removal date).
+  `sustainable_development_goals_aurora` field, which will be removed in November 2026.
 
 `classifier/head.py` is the same arithmetic without Spark.

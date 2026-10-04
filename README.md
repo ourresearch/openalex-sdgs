@@ -1,8 +1,7 @@
 # OpenAlex SDGs
 
 How [OpenAlex](https://openalex.org) decides which of the UN's 17
-[Sustainable Development Goals](https://sdgs.un.org/goals) a work addresses. Since October 2026 (TODO: the date the API
-first serves it) every work's [`sustainable_development_goals`](https://help.openalex.org/data/sdgs/) field comes
+[Sustainable Development Goals](https://sdgs.un.org/goals) a work addresses. Since 4 October 2026 every work's [`sustainable_development_goals`](https://help.openalex.org/data/sdgs/) field comes
 from a classifier OpenAlex trained and tested itself. It replaced the Aurora SDG-BERT model from the Aurora
 Universities Network, which OpenAlex had served for years. This is **version 1.0.0** (see the [changelog](CHANGELOG.md)).
 

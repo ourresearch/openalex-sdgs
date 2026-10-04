@@ -5,10 +5,10 @@ answer (the rubric in `harness/rubric.py`) or replaces the approach. A **minor**
 weights, the threshold, Jev's instructions or snapshot, the embedding) and is benchmarked again on the committee's
 2,000 works. A **patch** fixes code without changing any tag. Every release reports its benchmark here.
 
-## 1.0.0 (October 2026)
+## 1.0.0 (4 October 2026)
 
 First public release: head v2's weights, the 200,000 training labels, every test set (ids, scores, votes), every judge
-verdict, and the code that trained, tagged, judged and scored. TODO: the release date, the day the repo is published.
+verdict, and the code that trained, tagged, judged and scored.
 
 Benchmarked on 2,000 random works judged by a committee (Claude Opus 5.5 and GPT-6.1 Sol, Claude Fable 5.1 deciding
 their disagreements) under the UN's goal and target text (`python3 benchmarks/score_committee.py`): precision 0.68,
@@ -31,4 +31,6 @@ How it got here:
 - **2 October 2026.** Head v2 scored every work with a vector (474,877,445). Aurora's last tags were copied, once, into
   a deprecated field, `sustainable_development_goals_aurora`, to be removed in November 2026.
 - **3 October 2026.** The nightly build started writing head v2's goals into `sustainable_development_goals` and stopped
-  running Aurora. TODO: the date the API and search index serve the new field.
+  running Aurora; from that night the API served head v2's goals for single works.
+- **4 October 2026.** The search index was rebuilt with head v2's goals and swapped in (02:51 UTC), so filters and
+  group-bys use them too, and the API dropped the experimental `x_sdgs` field (API properties version 15.0.0).
